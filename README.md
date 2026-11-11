@@ -5,8 +5,7 @@
 * **Carrera:** Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial
 * **Materia:** Programación para Automatización II (2026 — 2° Cuatrimestre)
 * **Estudiante:** Carlos Ríos
-* **Matrícula / Legajo:** [Tu Matrícula]
-* **Correo Institucional:** carlos.rios@naranjax.com
+* **Correo:** carlos.rios@naranjax.com
 * **Repositorio Oficial:** https://github.com/carlosrios-beep/fenix
 
 ---
